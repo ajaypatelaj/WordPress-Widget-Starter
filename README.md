@@ -1,4 +1,5 @@
 WordPress-Widget-Starter
 ========================
 
-Use this sample widget starter code create your new widget.
+V1.0 Use this sample widget starter code create your new widget.
+
